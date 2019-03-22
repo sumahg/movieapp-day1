@@ -1,0 +1,50 @@
+ion-content{
+    --background: linear-gradient(to left,rgba(240, 243, 248, 1), rgba(115, 134, 167, 1),rgba(240, 243, 248, 1));
+ 
+}
+
+
+.logincard{
+    margin:25px 15px;
+    padding:50px 20px;
+    --background: linear-gradient(to left,rgba(228, 98, 61, 1), rgba(122, 152, 37, 1),rgba(228, 98, 61, 1));
+    
+}
+.text1{
+    font-family: 'Lobster', cursive;
+    font-size:15px;
+    color:black;
+}
+ion-img{
+    width:60%;
+    height:60%;
+    margin:25px auto -27px;
+}
+.eyeIcon{
+    font-size:28px;
+    color:#0c6876;
+}
+.fp{
+    color:#2d0de2;
+    font-size:18px;
+    float:right;
+    cursor:pointer;
+}
+.clearFloat{
+    clear:right;
+}
+.acc{
+    color: #0c6876;
+    font-size: 14px;
+}
+ion-item{
+    --background:rgba(30, 30, 30, 0.575);
+    --color:white;
+}
+.btn{
+    --background:
+        linear-gradient(to right, rgba(239, 11, 224, 1),rgba(115, 134, 167, 1),rgba(239, 11, 224, 1));
+        font-size:18px;
+        font-family: Arial, Helvetica, sans-serif;
+    
+}
